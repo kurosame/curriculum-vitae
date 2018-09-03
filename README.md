@@ -23,11 +23,14 @@
     https://github.com/kurosame/react-boilerplate
 
   - 用語集アプリ
-
     Firebase + Material Design を使った用語集アプリ
 
     https://github.com/kurosame/glossary  
     https://glossary-kurosame.firebaseapp.com/
+
+  - 業務アプリのフロントエンドの開発
+    フロントエンドの技術選定と設計
+    ビルド環境・テスト環境構築
 
 - Vue.js
 
@@ -36,46 +39,51 @@
 
     https://github.com/kurosame/vuejs-boilerplate
 
+  - 業務アプリのフロントエンドの開発
+    フロントエンドの技術選定と設計
+    ビルド環境・テスト環境構築
+
 - Angular
 
-  Hello World を書いた程度
+  - Hello World を書いた程度
 
 - TypeScript
 
-  React, Vue.js,Angular は全て TypeScript で開発
+  - React, Vue.js,Angular は全て TypeScript で開発
 
 ### バックエンド
 
 - Go
 
-  業務での経験のみ
+  - 業務アプリの API とバッチの開発
 
 - Scala
 
-  業務での経験のみ
+  - 業務アプリの API とバッチの開発
 
 - Python
 
-  機械学習を学ぶ際に書いた程度
+  - 業務アプリのバッチの開発
 
 - Java
 
-  業務での経験のみ
+  - 業務アプリの API とバッチの開発
 
 - PHP
 
-  業務での経験のみ
+  - 業務アプリの API とバッチの開発
 
 ### ネイティブアプリ
 
 - Swift
 
-  業務での経験のみ
+  - 業務アプリの開発
+    詳細は職務経歴に記載
 
 - Weex
 
   - 晩御飯を決めるアプリ（非公開）  
-    機械学習モデルが選出した晩御飯の属性（色や場所や時間など）をアプリ上に表示し、ユーザはその属性を選択する  
+    決定木モデルを使い、晩御飯の属性（色や場所や時間など）をアプリ上に表示し、ユーザはその属性を選択する  
     最終的に選んだ属性から導き出された晩御飯をアプリ上に表示する（アキネイターみたいなもの）  
     機械学習モデルに訓練させるデータセット不足により、満足のいく結果が出せなかった
 
@@ -86,6 +94,7 @@
 - AWS
 
   業務での経験のみ
+  Hadoop クラスターを Amazon EMR を使って構築
 
 - Firebase
 
@@ -104,7 +113,7 @@
 
 - Apache Spark
 
-  業務での経験のみ
+  パフォーマンスチューニング
 
 - scikit-learn
 
@@ -121,6 +130,10 @@
 機械学習も少しだけ出来ます
 
 ## 登壇歴
+
+### adc
+
+https://docs.google.com/presentation/d/1vfS_3_e7iCsPP3Kj1IBIJVofD6uK_IgYJVoak5V2fl4/edit#slide=id.gc6f980f91_0_0
 
 ## 受賞歴
 
@@ -142,7 +155,7 @@ https://cadashboard.jp
 
 - Vue.js による UI 設計（Flux）と開発
 - Scala による API 開発
-- Apache Spark による集計システムの開発
+- Apache Spark（Amazon EMR 上に Hadoop クラスターを構築） による集計システムの開発
 
 #### 社内向けのクリエイティブ管理の iOS アプリ開発
 
