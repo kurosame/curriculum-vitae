@@ -15,7 +15,7 @@
 
 ### フロントエンド
 
-- React
+- React(+TypeScript)
 
   - ボイラープレート
     React の開発を始めるための開発・テスト環境を提供
@@ -32,7 +32,7 @@
     フロントエンドの技術選定と設計
     ビルド環境・テスト環境構築
 
-- Vue.js
+- Vue.js(+TypeScript)
 
   - ボイラープレート
     Vue.js の開発を始めるための開発・テスト環境を提供
@@ -43,13 +43,9 @@
     フロントエンドの技術選定と設計
     ビルド環境・テスト環境構築
 
-- Angular
+- Angular(+TypeScript)
 
   - Hello World を書いた程度
-
-- TypeScript
-
-  - React, Vue.js,Angular は全て TypeScript で開発
 
 ### バックエンド
 
@@ -93,29 +89,19 @@
 
 - AWS
 
-  業務での経験のみ
-  Hadoop クラスターを Amazon EMR を使って構築
+  - Amazon EMR
+    約 100 万/日のレポートデータを 2 ヶ月分、 13 ヶ月分集計するシステムを構築
+    Apache Spark を使用
+
+  - Amazon ECS ＆ AWS Fargate  
+    Hubot コンテナの構築
 
 - Firebase
 
-  用語集アプリ（React）で利用  
-  Cloud Firestore, Cloud Storage, Hosting, Cloud Functions
-
-- Docker
-
-  業務を含め、色々
+  - 用語集アプリ（React）で利用  
+    Cloud Firestore, Cloud Storage, Hosting, Cloud Functions を使用
 
 - Kubernetes
-
-  ちょっと触ったくらい
-
-### フレームワーク
-
-- Apache Spark
-
-  パフォーマンスチューニング
-
-- scikit-learn
 
   ちょっと触ったくらい
 
