@@ -1,5 +1,8 @@
 # 職務経歴書
 
+<span style="color: red">**The curriculum vitae has moved here!!**</span>  
+https://portfolio-kurosame.netlify.com
+
 ## 基本情報
 
 | key        | value                                           |
